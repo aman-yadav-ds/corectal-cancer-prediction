@@ -1,0 +1,4 @@
+venv/
+Corectal_Prediction.egg-info/
+logs/
+mlruns/

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Corectal-Prediction"
+version = "0.1"
+authors = [
+    { name = "Aman" }
+]
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "Flask",
+    "joblib",
+    "matplotlib",
+    "seaborn",
+    "mlflow",
+    "kfp", #Kubeflow Pipelines
+]
+
+[tool.setuptools.packages.find]
+where=["."]

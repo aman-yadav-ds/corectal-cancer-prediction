@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ay272/OneDrive/Documents/Projects/corectal_cancer_prediction/mlruns/0/cf0a80e286c3473ba896b9f14b00c4b4/artifacts
+end_time: 1757072571041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf0a80e286c3473ba896b9f14b00c4b4
+run_name: abrasive-goose-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757072561564
+status: 3
+tags: []
+user_id: ay272
