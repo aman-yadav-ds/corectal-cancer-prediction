@@ -17,7 +17,7 @@ dependencies = [
     "matplotlib",
     "seaborn",
     "mlflow",
-    "kfp", #Kubeflow Pipelines
+    "kfp==1.8.22", #Kubeflow Pipelines
 ]
 
 [tool.setuptools.packages.find]
